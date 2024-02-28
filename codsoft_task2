@@ -1,6 +1,8 @@
- <!-- HTML CODE -->
+// LANDING PAGE
 
-   <!DOCTYPE html>
+<!-- HTML CODE -->
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -74,7 +76,7 @@
 
 </html>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- <!-- CSS CODE -->
+/* CSS CODE */
 
  @import url("https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&display=swap");
      {
